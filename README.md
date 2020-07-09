@@ -81,4 +81,3 @@ The following projects have been instrumental in the development to the developm
 
 <img src="screenshots/obeyi.svg" />
 
-OBEYi <}
