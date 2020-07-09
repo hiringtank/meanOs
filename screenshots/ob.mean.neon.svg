@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  style="background:rgba(5,1,17,0.9)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" ">
 <style>
 
 .glitch{
@@ -295,10 +295,6 @@ animation: clock-bag 3s linear infinite;
 	</g>
 <style>
   
-body {
-  background: -webkit-radial-gradient(center, ellipse cover, #ffffff 0%, #f2efd9 100%);
-}
-
 @-webkit-keyframes rotate-right {
   from {
     -webkit-transform: rotate(0deg);
