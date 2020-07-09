@@ -1,0 +1,523 @@
+ 
+
+ 
+
+  <svg class="img-responsive" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  preserveAspectRatio="none" viewBox = "0 0 1340 800" ><defs>
+    <style type="text/css"> .a86{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a86;
+
+ 
+					}
+						
+				@keyframes a86  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.6461,-0.1139,0,0,0.1139,0.6461,0,0,0,0,0.6561,0,324.945,653.69,1547,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.4949,0.1139,0.4153,0,-0.0873,0.6461,-0.0733,0,-0.4217,0,0.5026,0,652.861,618,1492.44,1);
+		 
+	 }}.a87{
+						animation-duration:6s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a87;
+
+ 
+					}
+						
+				@keyframes a87  
+						{
+						0.1% {
+		 
+		transform: matrix3d(-0.6561,0,0,0,0,0.6561,0,0,0,0,-0.6561,0,1041,667,2636,1);
+		 
+	 }
+						
+						
+   						30% {
+		
+		transform: matrix3d(-0.6561,0,0,0,0,0.6561,0,0,0,0,-0.6561,0,1085.83,742,2636,1);
+		  
+	 }
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(-0.348678,0,0,0,0,0.348678,0,0,0,0,-0.348678,0,1429.89,625.816,7855.69,1);
+		 
+	 }}.a88{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a88;
+
+ 
+					}
+						
+				@keyframes a88  
+						{
+						0.1% {
+		 
+		transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,840,600,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.575979,0.249318,0,0,-0.548985,0.685041,0,0,0,0,0.729,0,17,281,199,1);
+		 
+	 }}.a89{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a89;
+
+ 
+					}
+						
+				@keyframes a89  
+						{
+						0.1% {
+		 
+		transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,1320,105,0,1);
+		 
+	 }
+						
+						
+   						
+    					40% {
+		
+		transform: matrix3d(0.9397,0.342,0,0,-0.342,0.9397,0,0,0,0,1,0,652,60,0,1);
+		 
+	 }
+    	               
+	  					60% {
+		 
+		transform: matrix3d(-0.9397,0.342,0,0,0.342,0.9397,0,0,0,0,-1,0,846.358,60,0,1);
+	 
+	 }
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(-1.04719,0.6428,0,0,0.307724,0.766,0,0,0,0,-1,0,1076,-158,0,1);
+		 
+	 }}.a90{
+						animation-duration:10s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a90;
+
+ 
+					}
+						
+				@keyframes a90  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.766,-0.6428,0,0,0.6428,0.766,0,0,0,0,1,0,171,293,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.866,-0.5001,0,0,0.5001,0.866,0,0,0,0,1,0,714,-133,0,1);
+		 
+	 }}.a91{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a91;
+
+ 
+					}
+						
+				@keyframes a91  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.729,0,0,0,0,0.729,0,0,0,0,0.729,0,-184,171,-121,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.970342,0.1685,0,0,-0.0848958,0.9556,0,0,0,0,0.9703,0,1171,144,-160,1);
+		 
+	 }}.a92{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a92;
+
+ 
+					}
+						
+				@keyframes a92  
+						{
+						0.1% {
+		 
+		transform: matrix3d(1.55459,0,0,0,0,1.51627,0,0,0,0,0.643044,0,395.626,223.739,3208.73,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.57874,0,0,0,0,2.07992,0,0,0,0,0.88209,0,542,-432,2064,1);
+		 
+	 }}.a93{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a93;
+
+ 
+					}
+						
+				@keyframes a93  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.9397,0.342,0,0,-0.342,0.9397,0,0,0,0,1,0,255,483,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(1.10443,0.704218,0,0,0.363503,1.93496,0,0,0,0,0.960597,0,183.337,-568.996,1593.56,1);
+		 
+	 }}.a94{
+						animation-duration:5s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a94;
+
+ 
+					}
+						
+				@keyframes a94  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.866,0.5,0,0,-0.5,0.866,0,0,0,0,1,0,1336,1,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.6427,0.766,0,0,-0.766,0.6427,0,0,0,0,1,0,799,-178,0,1);
+		 
+	 }}.a95{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a95;
+
+ 
+					}
+						
+				@keyframes a95  
+						{
+						0.1% {
+		 
+		transform: matrix3d(-0.604879,-1.04786,0,0,-1.04786,0.604879,0,0,0,0,-1.21,0,1741,432,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               50% {
+		
+		transform: matrix3d(-0.1272,-1.2679,-0.7207,0,-0.2201,0.7319,-1.2488,0,1.442,0,-0.2543,0,1066.06,448,270.45,1);
+		 
+	 }
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.1062,-0.9239,-0.2401,0,0.8413,0.2048,-0.4159,0,0.4513,-0.1643,0.8321,0,1312,464,3592,1);
+		 
+	 }}.a96{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a96;
+
+ 
+					}
+						
+				@keyframes a96  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.9,0,0,0,0,0.9,0,0,0,0,0.9,0,495,510,630,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.5785,0,0.6894,0,0,0.9,0,0,-0.6894,0,0.5785,0,543.224,509.998,526.587,1);
+		 
+	 }}.a97{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a97;
+
+ 
+					}
+						
+				@keyframes a97  
+						{
+						0.1% {
+		 
+		transform: matrix3d(1.331,0,0,0,0,1.331,0,0,0,0,1.331,0,-305,135,0,1);
+		 
+	 }
+						
+						
+   						30% {
+		
+		transform: matrix3d(1.4641,0,0,0,0,1.4641,0,0,0,0,1.4641,0,275.035,117.032,0,1);
+		  
+	 }
+    					
+    	               50% {
+		
+		transform: matrix3d(1.4419,0.2542,0,0,-0.2542,1.4419,0,0,0,0,1.4641,0,312.694,81.8991,0,1);
+		 
+	 }
+	  					
+						70% {
+		 
+		transform: matrix3d(1.4419,0.2542,0,0,-0.2542,1.4419,0,0,0,0,1.4641,0,312,231,0,1);
+		 
+	 }
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(1.4419,-0.2542,0,0,0.2542,1.4419,0,0,0,0,1.4641,0,1308,307,0,1);
+		 
+	 }}.a98{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a98;
+
+ 
+					}
+						
+				@keyframes a98  
+						{
+						0.1% {
+		 
+		transform: matrix3d(-0.6427,-0.766,0,0,-0.766,0.6427,0,0,0,0,-1,0,1049,-5,0,1);
+		 
+	 }
+						
+						
+   						
+    					40% {
+		
+		transform: matrix3d(-0.6427,-0.766,0,0,-0.766,0.6427,0,0,0,0,-1,0,1049,160,0,1);
+		 
+	 }
+    	               
+	  					60% {
+		 
+		transform: matrix3d(-0.9397,-0.342,0,0,-0.342,0.9397,0,0,0,0,-1,0,1039.26,58.3981,0,1);
+	 
+	 }
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(-0.9397,-0.342,0,0,-0.342,0.9397,0,0,0,0,-1,0,1669,58,0,1);
+		 
+	 }}.a99{
+						animation-duration:20s;
+					  animation-iteration-count: infinite;
+					  animation-direction:normal;
+				animation-play-state:running;
+				animation-name:a99;
+
+ 
+					}
+						
+				@keyframes a99  
+						{
+						0.1% {
+		 
+		transform: matrix3d(0.866,-0.5,0,0,0.5,0.866,0,0,0,0,1,0,-55,94,0,1);
+		 
+	 }
+						
+						
+   						
+    					
+    	               
+	  					
+						
+						
+  						
+  						 100% {
+		 
+		transform: matrix3d(0.866,0.5,0,0,-0.5,0.866,0,0,0,0,1,0,367,503,0,1);
+		 
+	 }}</style> </defs><g id="todo" style="transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1)">
+
+
+		<g id="b85"  > <image id="FONDO-PECERA-ANIMACION.jpg1582852016" xlink:href="https://animacionesweb.online/imagenes/FONDO-PECERA-ANIMACION.jpg" class="a85" 
+			 x="0" y="0" stroke-width="" stroke="none" ></image></g>
+
+			<g id="b86"> <image id="animacion-de-foto-comepiedras.png1582852042" style="transform: matrix3d(0.6461,-0.1139,0.0000,0.0000,0.1139,0.6461,0.0000,0.0000,0.0000,0.0000,0.6561,0.0000,324.9448,653.6896,1547.0000,1.0000)" xlink:href="https://animacionesweb.online/imagenes/animacion-de-foto-comepiedras.png" class="a86" width="300" height="211" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b92"> <image id="animacion-medusa.png1582852119"  style="transform: matrix3d(0.57874,0,0,0,0,2.07992,0,0,0,0,0.88209,0,542,153,2064,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-medusa.png" class="a92" width="300" height="251" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b87"> <image id="animacion-de-pecez-salmon.png1582852054" style="transform: matrix3d(0.6561,0,0,0,0,0.6561,0,0,0,0,0.6561,0,830,772,2636,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-de-pecez-salmon.png" class="a87" width="300" height="220" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b89"> <image id="animacion-de-pez-pecera.png1582852083"  style="transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,1320,105,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-de-pez-pecera.png" class="a89" width="300" height="256" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b90"> <image id="animacion-foto-dos-peces-naranja.png1582852094"  style="transform: matrix3d(0.766,-0.6428,0,0,0.6428,0.766,0,0,0,0,1,0,171,293,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-foto-dos-peces-naranja.png" class="a90" width="300" height="277" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b91"> <image id="animacion-foto-pez-naranja.png1582852106" style="transform: matrix3d(0.729,0,0,0,0,0.729,0,0,0,0,0.729,0,-184,171,-121,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-foto-pez-naranja.png" class="a91" width="300" height="270" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b93"> <image id="animacion-medusa-azul.png1582852129"  style="transform: matrix3d(0.9397,0.342,0,0,-0.342,0.9397,0,0,0,0,1,0,255,483,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-medusa-azul.png" class="a93" width="300" height="299" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b94"> <image id="ANIMACION-MUCHOS-PECES.png1582852141"  style="transform: matrix3d(0.866,0.5,0,0,-0.5,0.866,0,0,0,0,1,0,1336,1,0,1)" xlink:href="https://animacionesweb.online/imagenes/ANIMACION-MUCHOS-PECES.png" class="a94" width="300" height="225" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b95"> <image id="animacion-peces-multicolores.png1582852154" style="transform: matrix3d(0.4999,-0.866,0,0,0.866,0.4999,0,0,0,0,1,0,277,419,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-peces-multicolores.png" class="a95" width="300" height="260" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b96"> <image id="animacion-planta-acuario.png1582852167"  style="transform:matrix3d(0.9,0,0,0,0,0.9,0,0,0,0,0.9,0,495,510,630,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-planta-acuario.png" class="a96" width="300" height="300" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b88"> <image id="animacion-de-pecez-salmon.png1582852071"  style="transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,930,600,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-de-pecez-salmon.png" class="a88" width="300" height="220" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b97"> <image id="animacion-foto-pez-naranja.png1582852187"  style="transform: matrix3d(1.331,0,0,0,0,1.331,0,0,0,0,1.331,0,-305,135,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-foto-pez-naranja.png" class="a97" width="300" height="270" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b98"> <image id="animacion-de-pez-pecera.png1582852203"  style="transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,705,-210,0,1)" xlink:href="https://animacionesweb.online/imagenes/animacion-de-pez-pecera.png" class="a98" width="300" height="256" x="0" y="0" stroke-width="" stroke="none"></image></g>
+
+
+			<g id="b99"> <image id="PEZ-DE-FONDO.png1582852226"  style="transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,-105,524,0,1)" xlink:href="https://animacionesweb.online/imagenes/PEZ-DE-FONDO.png" class="a99" width="199" height="216" x="0" y="0" stroke-width="" stroke="none"></image></g> 
+
+
+
+</g>                     
+				  
+               
+               	 
+
+  
+ 	 
+	  
+
+
+
+                </svg>		
+
