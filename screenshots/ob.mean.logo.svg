@@ -602,7 +602,6 @@ animation: clock-bag 3s linear infinite;
 				<circle id="a" cy="250" cx="375" r="100"/>
 			</defs>
 			<clipPath id="b">
-				<use overflow="visible" xlink:href="#a"/>
 			</clipPath>
 			<g clip-path="url(#b)" class="glitch" stroke="rgba(255,255,255,0.9)" stroke-miterlimit="1.5" stroke-width="1.5" fill="none">
 				<ellipse rx="62.5" cy="250" ry="100" cx="375"/>
