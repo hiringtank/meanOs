@@ -1,8 +1,8 @@
 <center>
 meanOs
 (MEAN OPERATING SYSTEM)
-<img width="50%" src="screenshots/ob.mean.neon.svg" />
-<img width="50%" src="screenshots/ob.mean.logo.svg" />
+<img width="100%" height="auto" src="screenshots/ob.mean.neon.svg" />
+<img width="100%" height="auto"  src="screenshots/ob.mean.logo.svg" />
 </center>
 The smallest and the most powerful operating system.
 
