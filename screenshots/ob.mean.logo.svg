@@ -672,5 +672,5 @@ animation: clock-bag 3s linear infinite;
 	<path class="wave">meanOs</path>
 	<path class="wave">meanOs</path>
 	<path class="wave">meanOs</path>
-</div>
+</g>
 </svg>
