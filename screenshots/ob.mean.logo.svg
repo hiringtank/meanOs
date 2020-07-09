@@ -650,26 +650,27 @@ animation: clock-bag 3s linear infinite;
 		</g>
 	</g>
   
-<div class="container">
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
-  <div class="wave">meanOs</div>
+<g class="container">
+<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
+	<path class="wave">meanOs</path>
 </div>
 </svg>
