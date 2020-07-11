@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",(function(){document.getElementById("configure").addEventListener("click",(function(){chrome.runtime.getBackgroundPage((function(e){e.hidden_click_configure()}))}))}));
