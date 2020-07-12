@@ -11,13 +11,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
 
-## Table of content
-
-- [GUI Options](#gui-options)
-- [Architecture](#architecture)
-- [Related Developments](#related-developments)
-- [Acknowledgements](#acknowledgements)
-
  <table width="100%">
  <tr>
  <td><img src="https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" /></td>
@@ -26,6 +19,13 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  <td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td>
  </tr>
  </table>
+
+## Table of content
+
+- [GUI Options](#gui-options)
+- [Architecture](#architecture)
+- [Related Developments](#related-developments)
+- [Acknowledgements](#acknowledgements)
 
 <hr />
 
