@@ -1,21 +1,8 @@
 <h1>meanOs</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
 The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)</p>
-<p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!
-<table border="0" width="100%">
-<tr>
-<td width="50%">
-<p align="center">
-<img src="https://cdn.obeyi.com/os/img/screenshots/ob.mean.logo.svg" width="300px" height="300px" />
-</p>
-</td>
-<td>
-<td width="50%">
-<br /><br /><br /><img src="https://cdn.obeyi.com/os/img/screenshots/ob.mean.blogo.png" height="250px"/>
-</p>
-</td>
-</tr>
-</table>
+<img align="left" src="https://cdn.obeyi.com/os/img/screenshots/ob.mean.blogo.png" height="250px"/>
+<p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
 
 <hr />
 
