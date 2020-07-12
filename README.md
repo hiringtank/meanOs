@@ -22,7 +22,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  <hr />
 
-## Table of content
+## Content Summery
 
 - [GUI Options](#gui-options)
 - [Architecture](#architecture)
