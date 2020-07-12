@@ -20,6 +20,8 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </tr>
  </table>
 
+ <hr />
+
 ## Table of content
 
 - [GUI Options](#gui-options)
