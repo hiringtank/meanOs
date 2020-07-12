@@ -1,9 +1,20 @@
 <h1>meanOs</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
+[![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
+[![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+[![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
+[![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
+
 The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)
 
 <p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
+
+## Table of content
+
+- [GUI Options](#guioptions)
+- [TYPO3 setup](#typo3-setup)
 
  <table width="100%">
  <tr>
@@ -14,23 +25,21 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </tr>
  </table>
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
-[![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
-[![Microsoft Edge Add-on](https://img.shields.io/badge/dynamic/json?label=microsoft%20edge%20add-on&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Feeagobfjdenkkddmbclomhiblgggliao)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-[![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
-[![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
-
-The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)
-
 <hr />
 
  ## GUI Options:
 
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
+<p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
+
 - [x] Kali Linux, Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
 
+<p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/kali-screenshot.png" /></p>
+
 - [x] macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
+
+<p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/macos-screenshot.png" /></p>
 
 <hr />
 
@@ -54,7 +63,9 @@ After the ServiceWorker is downloaded and activated, it handles all `fetch()` ev
 
  ## Special thanks and acknowledgements
 
-The following projects have been instrumental in the development to the development of meanOs:
+ <p>The following projects have been instrumental in the development to the development of meanOs:</p>
+
+ <p align="center"><img src="https://gun.eco/see/compare.png" title="comparison table"></p>
 
 - [x] Gun: GUN is a data­base en­gine that runs every­where JavaScript does — browsers, mo­bile de­vices and servers, al­low­ing you to build ex­act­ly the data sys­tem you want.
 
