@@ -13,8 +13,10 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 ## Table of content
 
-- [GUI Options](#guioptions)
-- [TYPO3 setup](#typo3-setup)
+- [GUI Options](#gui-options)
+- [Architecture](#architecture)
+- [Related Developments](#related-developments)
+- [Acknowledgements](#acknowledgements)
 
  <table width="100%">
  <tr>
@@ -35,7 +37,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 - [x] Kali Linux, Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
 
-<p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/kali-screenshot.png" /></p>
+<p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/kali-screenshot.jpg" /></p>
 
 - [x] macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
@@ -47,21 +49,43 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
+Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, intercept network requests and take appropriate action based on whether the network is available, and update assets residing on the server. They will also allow access to push notifications and background sync APIs.
+
 After the ServiceWorker is downloaded and activated, it handles all `fetch()` events by first trying to use the regular HTTPS request to the original website. If that fails (for whatever reason, be it timeout, or a `4xx`/`5xx` error), the plugins kick-in, attempting to fetch the content via any means are available.
 
+A service worker is an event-driven worker registered against an origin and a path. It takes the form of a JavaScript file that can control the web-page/site that it is associated with, intercepting and modifying navigation and resource requests, and caching resources in a very granular fashion to give you complete control over how your app behaves in certain situations (the most obvious one being when the network is not available).
+
+A service worker is run in a worker context: it therefore has no DOM access, and runs on a different thread to the main JavaScript that powers your app, so it is non-blocking. It is designed to be fully async; as a consequence, APIs such as synchronous XHR and localStorage can't be used inside a service worker.
+
+Service workers only run over HTTPS, for security reasons. Having modified network requests, wide open to man in the middle attacks would be really bad. In Firefox, Service Worker APIs are also hidden and cannot be used when the user is in private browsing mode.
+
 <hr />
 
- ## Related developments
+ ## Related Developments
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
+
+<p>Neocities has collaborated with Protocol Labs to become the first major site to implement IPFS in production. Starting today, all Neocities web sites are available for viewing, archiving, and hosting by any IPFS node in the world. When another IPFS node chooses to host a site from Neocities, that version of the site will continue to be available, even if Neocities shuts down or stops hosting it. The more IPFS nodes seed Neocities sites, the more available (and redundant) Neocities sites become. And the less centrally dependent the sites are on us to continue existing.</p>
+
 - [x] https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/
+
+<p>Presentation by Brewster Kahle, Internet Archive Digital Librarian at Ford Foundation NetGain gathering, — a call from 5 top foundations to think big about prospects for our digital future.  (More detailed version)</p>
+
 - [x] https://censorship.no/
+
+<p>Designed for accessing websites from the stringest network environments, the censorship.no project (CENO) by eQualit.ie , allows you to browse the Web without restriction, circumventing any network filtering. The underlying architecture offers peer-to-peer routing and distributed caching, using 'darknet' infrastructure to avoid network censorship and bring the Web to your browser.</p>
+
 - [x] https://netblocks.org/
+
+<p>NetBlocks is a civil society group working at the intersection of digital rights, cyber-security and internet governance. Independent and non-partisan, NetBlocks strives for an open and inclusive digital future for all.</p>
+
 - [x] https://samizdat.is/
+
+<p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
 
 <hr />
 
- ## Special thanks and acknowledgements
+ ## Acknowledgements
 
  <p>The following projects have been instrumental in the development to the development of meanOs:</p>
 
