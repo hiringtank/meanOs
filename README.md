@@ -1,17 +1,18 @@
 <h1>meanOs</h1>
 <p><i>The smallest and the most powerful operating system.</i></p>
-The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)</p>
+
+The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)
+
 <p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
 
-<hr />
-
- ## Browser Support
-
-| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](/) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](/) | [![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](/) | [![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](/) | [![Yandex](https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png)](/) | [![Brave](https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png)](/) | [![vivaldi](https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png)](/) |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| 49 & later ✔                                                                                  | 52 & later ✔                                                                                     | 36 & later ✔                                                                               | 79 & later ✔                                                                            | Latest ✔                                                                                      | Latest ✔                                                                                   | Latest ✔                                                                                         |
- 
-------------------------------------------------------------------------------------------------
+ <table width="100%">
+ <tr>
+ <td><img src="https://raw.github.com/alrra/browser-logos/master/src/brave/brave_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/yandex/yandex_48x48.png" /></td><td><img src="https://raw.github.com/alrra/browser-logos/master/src/vivaldi/vivaldi_48x48.png" /></td>
+ </tr>
+ <tr>
+ <td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td><td>Latest ✔</td>
+ </tr>
+ </table>
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/jinjaccalgkegednnccohejagnlnfdag.svg)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
 [![Firefox Add-ons](https://img.shields.io/amo/v/violentmonkey.svg)](https://addons.mozilla.org/firefox/addon/violentmonkey)
@@ -21,7 +22,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)
 
-------------------------------------------------------------------------------------------------
+<hr />
 
  ## GUI Options:
 
@@ -31,7 +32,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 - [x] macOS, macOS is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
-------------------------------------------------------------------------------------------------
+<hr />
 
  ## Architecture
 
@@ -39,7 +40,7 @@ A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Wor
 
 After the ServiceWorker is downloaded and activated, it handles all `fetch()` events by first trying to use the regular HTTPS request to the original website. If that fails (for whatever reason, be it timeout, or a `4xx`/`5xx` error), the plugins kick-in, attempting to fetch the content via any means are available.
 
-------------------------------------------------------------------------------------------------
+<hr />
 
  ## Related developments
 
@@ -49,7 +50,7 @@ After the ServiceWorker is downloaded and activated, it handles all `fetch()` ev
 - [x] https://netblocks.org/
 - [x] https://samizdat.is/
 
-------------------------------------------------------------------------------------------------
+<hr />
 
  ## Special thanks and acknowledgements
 
@@ -76,7 +77,3 @@ The following projects have been instrumental in the development to the developm
 - [x] Vercel: Vercel is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and global CDN.
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
-
-<img src="screenshots/obeyi.svg" />
-
-OBEYi <}
