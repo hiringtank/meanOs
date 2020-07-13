@@ -22,6 +22,33 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </tr>
  </table>
 
+ <table  align="center" width="100%">
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./1.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./2.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./13.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./10.gif" /></td>
+ </tr>
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./14.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./5.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./16.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./11.gif" /></td>
+ </tr>
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./7.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./8.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./9.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./12.gif" /></td>
+ </tr>
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./18.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./3.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./4.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./6.gif" /></td>
+ </tr>
+ </table>
+
  <hr />
 
  <img align="right" width="30%" src="./fluid.gif" />
