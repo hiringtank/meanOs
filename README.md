@@ -132,6 +132,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
+<hr />
+
 <p align="center">
     <a href="https://meanOs.obeyi.com"><img width="50px" src="./triangle3.gif" /></a>
 </p>
