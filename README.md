@@ -24,18 +24,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  <table  align="center" width="100%">
  <tr>
- <td width="25%"><img align="center" width="100%" src="./1.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./2.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./13.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./10.gif" /></td>
- </tr>
- <tr>
- <td width="25%"><img align="center" width="100%" src="./14.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./5.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./16.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./11.gif" /></td>
- </tr>
- <tr>
  <td width="25%"><img align="center" width="100%" src="./7.gif" /></td>
  <td width="25%"><img align="center" width="100%" src="./8.gif" /></td>
  <td width="25%"><img align="center" width="100%" src="./9.gif" /></td>
@@ -104,7 +92,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
  ## Related Developments
 
 <p align="center">
-    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="50%" src="./banner2.gif" /></a>
+    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="./banner2.gif" /></a>
 <p>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
@@ -127,9 +115,20 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
 
-<p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="50%" src="./triangle.gif" /></a>
-</p>
+<table  align="center" width="100%">
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./1.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./2.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./13.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./10.gif" /></td>
+ </tr>
+ <tr>
+ <td width="25%"><img align="center" width="100%" src="./14.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./5.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./16.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./11.gif" /></td>
+ </tr>
+ </table>
 
 <hr />
 
