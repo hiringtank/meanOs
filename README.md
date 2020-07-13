@@ -57,7 +57,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  ## Architecture
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./triangle2.gif" /></a>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
@@ -75,9 +75,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
  ## Related Developments
 
-<p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="70%" src="./triangle.gif" /></a>
-<p>
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
@@ -99,7 +97,9 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./triangle2.gif" /></a>
+<p align="center">
+    <a href="https://meanOs.obeyi.com"><img width="70%" src="./triangle.gif" /></a>
+<p>
 
 <hr />
 
