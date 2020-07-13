@@ -1,0 +1,48 @@
+<!doctype html>
+<html ng-csp>
+    <head>
+        <meta charset="utf-8">
+        <base target="_blank">
+        <link rel="stylesheet" href="styles/vendor.css">
+        <link rel="stylesheet" href="styles/main.css">
+    </head>
+    <body id="soundcloudify">
+        <div layout="row">
+            <div id="player">
+                <scd-player></scd-player>
+            </div>
+
+            <div id="discovery" ng-controller="DiscoveryController as vm">
+                <md-tabs class="main-nav md-primary" md-selected="vm.selectedIndex">
+                    <md-tab md-on-select="vm.onTabSelect()">
+                        <md-icon md-font-icon="icon ion-ios-musical-notes"></md-icon>
+                        <span>{{'tab_nowPlaying' | translate}}</span>
+                    </md-tab>
+                    <md-tab md-on-select="vm.onTabSelect()">
+                        <md-icon md-font-icon="icon ion-search"></md-icon>
+                        <span>{{'tab_search' | translate}}</span>
+                    </md-tab>
+                    <md-tab md-on-select="vm.onTabSelect()">
+                        <md-icon md-font-icon="icon ion-film-marker"></md-icon>
+                        <span>{{'tab_playlist' | translate}}</span>
+                    </md-tab>
+                    <md-tab md-on-select="vm.onTabSelect()">
+                        <md-icon md-font-icon="icon ion-stats-bars"></md-icon>
+                        <span>{{'tab_charts' | translate}}</span>
+                    </md-tab>
+                </md-tabs>
+                <div class="tabpanel-container">
+                    <div role="tabpanel">
+                        <div id="tab-content" ui-view></div>
+                    </div>
+                </div>
+                <playlist-menu id="singleton-playlist-menu"></playlist-menu>
+            </div>
+        </div>
+
+        <!-- <div ng-view></div> -->
+        
+<script src="scripts/vendor.js"></script>
+<script src="scripts/popup.js"></script>
+</body>
+</html>
