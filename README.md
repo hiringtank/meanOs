@@ -37,7 +37,9 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <hr />
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner.gif" /></a>
+<p align="center">
+    <a href="https://meanOs.obeyi.com"><img width="80%" src="./fluid.gif" /></a>
+</p>
 
  ## GUI Options:
 
@@ -127,4 +129,3 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./fluid.gif" /></a>
