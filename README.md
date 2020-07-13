@@ -26,6 +26,8 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 ## Content Summery
 
+<a align="right" href="https://meanOs.obeyi.com"><img width="50%" src="./fluid.gif" /></a>
+
 - [GUI Options](#gui-options)
 - [Architecture](#architecture)
 - [Related Developments](#related-developments)
@@ -36,10 +38,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 - [meanOs (Theme)](https://github.com/obeyi/meanOs/tree/master/theme)
 
 <hr />
-
-<p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="60%" src="./fluid.gif" /></a>
-</p>
 
  ## GUI Options:
 
