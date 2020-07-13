@@ -73,6 +73,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./fluid.gif" /></a>
+
  ## Related Developments
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
