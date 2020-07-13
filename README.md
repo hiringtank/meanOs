@@ -23,11 +23,13 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </table>
 
  <hr />
- 
+
 <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 ## Content Summery
 
-<img align="right" width="50%" src="./fluid.gif" />
+<img align="right" width="30%" src="./fluid.gif" />
+
+
 - [GUI Options](#gui-options)
 - [Architecture](#architecture)
 - [Related Developments](#related-developments)
