@@ -40,7 +40,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  <hr />
 
 <p align="right">
-    <a align="right" href="https://meanOs.obeyi.com"><img  align="right" width="30%" src="./triangle2.gif" /></a>
+    <a align="right" href="https://meanOs.obeyi.com"><img  align="right" width="40%" src="./triangle2.gif" /></a>
 <p>
  
 ## Content Summery
