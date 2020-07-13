@@ -22,8 +22,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </tr>
  </table>
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
-
  <hr />
 
  <img align="right" width="30%" src="./fluid.gif" />
@@ -42,6 +40,8 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 <hr />
 
  ## GUI Options:
+
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
