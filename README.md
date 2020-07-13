@@ -42,7 +42,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  <td width="25%"><img align="center" width="100%" src="./12.gif" /></td>
  </tr>
  <tr>
- <td width="25%"><img align="center" width="100%" src="./18.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./15.gif" /></td>
  <td width="25%"><img align="center" width="100%" src="./3.gif" /></td>
  <td width="25%"><img align="center" width="100%" src="./4.gif" /></td>
  <td width="25%"><img align="center" width="100%" src="./6.gif" /></td>
