@@ -23,11 +23,11 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </table>
 
  <hr />
-
+ 
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 ## Content Summery
 
-<a align="right" href="https://meanOs.obeyi.com"><img width="50%" src="./fluid.gif" /></a>
-
+<img align="right" width="50%" src="./fluid.gif" />
 - [GUI Options](#gui-options)
 - [Architecture](#architecture)
 - [Related Developments](#related-developments)
@@ -128,6 +128,4 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 - [x] Vercel: Vercel is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and global CDN.
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
-
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner1.gif" /></a>
