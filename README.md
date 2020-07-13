@@ -39,17 +39,26 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  <hr />
 
- <img align="right" width="30%" src="./fluid.gif" />
-
+<p align="right">
+    <a align="right" href="https://meanOs.obeyi.com"><img  align="right" width="30%" src="./triangle2.gif" /></a>
+<p>
+ 
 ## Content Summery
 
 - [GUI Options](#gui-options)
+
 - [Architecture](#architecture)
+
 - [Related Developments](#related-developments)
+
 - [Acknowledgements](#acknowledgements)
+
 - [meanOs (Operating System)](https://github.com/obeyi/meanOs/tree/master/ext)
+
 - [meanOs (Server)](https://github.com/obeyi/meanOs/tree/master/server)
+
 - [meanOs (Player)](https://github.com/obeyi/meanOs/tree/master/player)
+
 - [meanOs (Theme)](https://github.com/obeyi/meanOs/tree/master/theme)
 
 <hr />
@@ -71,9 +80,10 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 <hr />
 
  ## Architecture
+
 <p align="right">
-    <a align="right" href="https://meanOs.obeyi.com"><img  align="right" width="40%" src="./triangle2.gif" /></a>
-<p>
+    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="./fluid.gif" /></a>
+</p>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
