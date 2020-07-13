@@ -159,5 +159,5 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 </p>
 
 <p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="50px" src="./triangle3.gif" /></a>
+    <a href="https://meanOs.obeyi.com"><img width="50%" src="./footer.gif" /></a>
 </p>
