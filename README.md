@@ -38,14 +38,14 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </table>
 
  <hr />
+ 
+## Content Summery
 
 <p align="right">
     <a align="right" href="https://meanOs.obeyi.com">
-        <p><p><img  align="right" width="40%" src="./triangle2.gif" />
+        <img  align="right" width="35%" src="./triangle2.gif" />
     </a>
 <p>
- 
-## Content Summery
 
 - [GUI Options](#gui-options)
 
