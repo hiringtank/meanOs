@@ -37,6 +37,8 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <hr />
 
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner.gif" /></a>
+
  ## GUI Options:
 
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
@@ -53,6 +55,8 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <hr />
 
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
+
  ## Architecture
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
@@ -68,6 +72,8 @@ A service worker is run in a worker context: it therefore has no DOM access, and
 Service workers only run over HTTPS, for security reasons. Having modified network requests, wide open to man in the middle attacks would be really bad. In Firefox, Service Worker APIs are also hidden and cannot be used when the user is in private browsing mode.
 
 <hr />
+
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./dvb.gif" /></a>
 
  ## Related Developments
 
@@ -92,6 +98,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 <p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
 
 <hr />
+
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./dvc.gif" /></a>
 
  ## Acknowledgements
 
@@ -120,3 +128,5 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 - [x] Vercel: Vercel is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and global CDN.
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
+
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./dvd.gif" /></a>
