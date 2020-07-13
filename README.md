@@ -22,13 +22,13 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  </tr>
  </table>
 
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
+
  <hr />
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
+ <img align="right" width="30%" src="./fluid.gif" />
+
 ## Content Summery
-
-<img align="right" width="30%" src="./fluid.gif" />
-
 
 - [GUI Options](#gui-options)
 - [Architecture](#architecture)
@@ -57,9 +57,9 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <hr />
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
-
  ## Architecture
+
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
@@ -75,9 +75,9 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <hr />
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner4.gif" /></a>
-
  ## Related Developments
+
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner4.gif" /></a>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
