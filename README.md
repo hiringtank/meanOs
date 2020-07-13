@@ -38,7 +38,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 <hr />
 
 <p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="80%" src="./fluid.gif" /></a>
+    <a href="https://meanOs.obeyi.com"><img width="60%" src="./fluid.gif" /></a>
 </p>
 
  ## GUI Options:
