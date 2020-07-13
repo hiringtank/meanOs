@@ -7,7 +7,7 @@
 [![Gitter](https://img.shields.io/gitter/room/violentmonkey/violentmonkey.svg)](https://gitter.im/violentmonkey/violentmonkey)
 [![TravisCI](https://travis-ci.org/violentmonkey/violentmonkey.svg?branch=master)](https://travis-ci.org/violentmonkey/violentmonkey)
 
-The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms such as - [Gun](https://gun.eco) and - [IPFS](https://ipfs.io/)
+The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms.
 
 <p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
 
@@ -133,5 +133,21 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
 <p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="10%" src="./triangle3.gif" /></a>
+    <a href="https://meanOs.obeyi.com"><img width="50px" src="./triangle3.gif" /></a>
+</p>
+
+
+
+ ___      ___   _______       __      _____  ___      ______    ________  
+|"  \    /"  | /"     "|     /""\    (\"   \|"  \    /    " \  /"       ) 
+ \   \  //   |(: ______)    /    \   |.\\   \    |  // ____  \(:   \___/  
+ /\\  \/.    | \/    |     /' /\  \  |: \.   \\  | /  /    ) :)\___  \    
+|: \.        | // ___)_   //  __'  \ |.  \    \. |(: (____/ //  __/  \\   
+|.  \    /:  |(:      "| /   /  \\  \|    \    \ | \        /  /" \   :)  
+|___|\__/|___| \_______)(___/    \___)\___|\____\)  \"_____/  (_______/   
+                                                                          
+
+
 <p>
+The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms
+</p>
