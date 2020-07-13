@@ -101,7 +101,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 <p>Samizdat is a browser-based Web censorship circumvention library, easily deployable on any website.</p>
 
 <p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="70%" src="./triangle.gif" /></a>
+    <a href="https://meanOs.obeyi.com"><img width="50%" src="./triangle.gif" /></a>
 </p>
 
 <hr />
