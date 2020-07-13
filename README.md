@@ -41,7 +41,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  ## GUI Options:
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner3.gif" /></a>
 
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
@@ -59,7 +59,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  ## Architecture
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner2.gif" /></a>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
@@ -77,7 +77,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
  ## Related Developments
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner4.gif" /></a>
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
@@ -131,4 +131,3 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner3.gif" /></a>
