@@ -134,13 +134,21 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
-<p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="50px" src="./triangle3.gif" /></a>
-</p>
+<p align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </p>
+
+<hr />
+
+<hr />
 
 <p align="center">
-▌│█║▌║▌🅼🅴🅰🅽🄾🅂 █║▌║▌║ 
+<h1  align="center">▌│█║▌║▌🅼🅴🅰🅽🄾🅂 █║▌║▌║</h1>
 </p>
+
+<hr />
+
+<hr />
+
+<p align="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </p>
 
 <p align="center">
     <smaller>
@@ -148,4 +156,8 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
         The first decentralized, artificially intelligent, MEAN.js stack, operating system. meanOs is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms
         </i>
     <smaller>
+</p>
+
+<p align="center">
+    <a href="https://meanOs.obeyi.com"><img width="50px" src="./triangle3.gif" /></a>
 </p>
