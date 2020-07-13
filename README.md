@@ -41,8 +41,6 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  ## GUI Options:
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./banner3.gif" /></a>
-
 - [x] Google Fuchsia, Fuchsia is an open-source capability-based operating system currently being developed by Google. It first became known to the public when the project appeared on a self hosted form of git in August 2016 without any official announcement.
 
 <p align="center"><img width="800px" src="https://cdn.obeyi.com/os/img/fuschia-screenshot.jpg" /></p>
@@ -77,7 +75,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
  ## Related Developments
 
- <a href="https://meanOs.obeyi.com"><img width="100%" src="./dva.gif" /></a>
+ <a href="https://meanOs.obeyi.com"><img width="100%" src="./cat.gif" /></a>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
@@ -131,3 +129,4 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 - [x] BrowserStack: BrowserStack is a cloud web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices, without requiring users to install or maintain an internal lab of virtual machines, devices or emulators.
 
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner3.gif" /></a>
