@@ -11,7 +11,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <p>meanOs is specifically designed to work with Brave but is compatible with all other major browsers. meanOs is Proud to be a BRAVE supporter!</p>
 
-<a href="https://meanOs.obeyi.com"><img width="100%" src="./banner.png" /></a>
+<a href="https://meanOs.obeyi.com"><img width="100%" src="./media/banner.png" /></a>
 
  <table width="100%">
  <tr>
@@ -24,16 +24,16 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
  <table  align="center" width="100%">
  <tr>
- <td width="25%"><img align="center" width="100%" src="./7.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./8.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./9.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./12.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/7.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/8.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/9.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/12.gif" /></td>
  </tr>
  <tr>
- <td width="25%"><img align="center" width="100%" src="./15.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./3.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./4.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./6.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/15.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/3.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/4.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/6.gif" /></td>
  </tr>
  </table>
 
@@ -45,7 +45,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 <p align="right">
     <a align="right" href="https://meanOs.obeyi.com">
-        <img  align="right" width="35%" src="./triangle2.gif" />
+        <img  align="right" width="35%" src="./media/triangle2.gif" />
     </a>
 <p>
 
@@ -84,7 +84,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
  ## Architecture
 
 <p align="right">
-    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="./fluid.gif" /></a>
+    <a href="https://meanOs.obeyi.com/"><img align="right" width="30%" src="./media/fluid.gif" /></a>
 </p>
 
 A - [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
@@ -104,7 +104,7 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
  ## Related Developments
 
 <p align="center">
-    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="./banner2.gif" /></a>
+    <a align="center" href="https://meanOs.obeyi.com"><img align="center" width="60%" src="./media/banner2.gif" /></a>
 <p>
 
 - [x] https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
@@ -129,16 +129,16 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 
 <table  align="center" width="100%">
  <tr>
- <td width="25%"><img align="center" width="100%" src="./1.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./2.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./13.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./10.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/1.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/2.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/13.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/10.gif" /></td>
  </tr>
  <tr>
- <td width="25%"><img align="center" width="100%" src="./14.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./5.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./16.gif" /></td>
- <td width="25%"><img align="center" width="100%" src="./11.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/14.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/5.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/16.gif" /></td>
+ <td width="25%"><img align="center" width="100%" src="./media/11.gif" /></td>
  </tr>
  </table>
 
@@ -197,5 +197,5 @@ Service workers only run over HTTPS, for security reasons. Having modified netwo
 </p>
 
 <p align="center">
-    <a href="https://meanOs.obeyi.com"><img width="50%" src="./footer.gif" /></a>
+    <a href="https://meanOs.obeyi.com"><img width="50%" src="./media/footer.gif" /></a>
 </p>
