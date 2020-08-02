@@ -89,7 +89,7 @@ The first decentralized, artificially intelligent, MEAN.js stack, operating syst
 
 A [ServiceWorker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) is used as a way to persist the censorship circumvention library after the initial visit to the participating website.
 
-Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, update assets residing on the server intercept network requests and take appropriate action based on whether the network is available.They will also allow access to push notifications and background sync APIs.
+Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, update assets residing on the server, intercept network requests and take appropriate action based on whether the network is available.They will also allow access to push notifications and background sync APIs.
 
 After the ServiceWorker is downloaded and activated, it handles all `fetch()` events by first trying to use the regular HTTPS request to the original website. If that fails (for whatever reason, be it timeout, or a `4xx`/`5xx` error), the plugins kick-in, attempting to fetch the content via any means are available.
 
